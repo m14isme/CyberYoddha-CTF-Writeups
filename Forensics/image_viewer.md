@@ -2,7 +2,7 @@
 
 My friend took this image in a cool place
 
-![shoob_2]()
+![shoob_2](https://github.com/m14isme/CyberYoddha-CTF-Writeups/blob/main/Forensics/images/shoob_2.jpeg)
 
 # Solution
 
