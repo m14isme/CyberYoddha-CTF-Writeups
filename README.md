@@ -4,7 +4,7 @@ This writeups was done by ryu and m14isme from GIT team
 
 https://cyberyoddha.baycyber.net/
 
-![Scoreboard](https://github.com/m14isme/CyberYoddha-CTF-Writeups/tree/main/img/result.png)
+![Scoreboard](https://github.com/m14isme/CyberYoddha-CTF-Writeups/blob/main/img/result.png)
 
 # Challenges
 
